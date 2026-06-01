@@ -1,0 +1,29 @@
+# PixelCraft Studio
+
+> Studio de web design și marketing digital din Focșani, România, fondat în 2026. Oferim soluții digitale complete pentru afaceri locale: site-uri web profesionale, social media management și materiale promoționale.
+
+## Servicii principale
+
+- [Servicii & Prețuri](servicii.html): Site-uri web de la 249€ sau abonament lunar de la 49€/lună (site gratuit), Social Media Management de la 99€/lună, Materiale Promoționale la prețuri personalizate.
+
+## Portofoliu
+
+- [Portofoliu](portofoliu.html): Proiecte realizate — ElectroStore (magazin online), Auto DAN Service (service auto), AI-Hairstyle (aplicație cu AI), Restaurant Zenthos, Clean (servicii curățenie).
+
+## Contact
+
+- [Contact](contact.html): Telefon 0743 343 917, Email pixelcraft.studio9002@gmail.com, WhatsApp disponibil.
+
+## Informații despre companie
+
+- Locație: Focșani, Vrancea, România
+- Program: Luni — Vineri, 14:00 — 19:00
+- Răspuns în maximum 24 de ore
+- Reducere 50€ la prima comandă la programarea unei întâlniri
+
+## Pagini
+
+- [Acasă](index.html): Prezentare generală PixelCraft Studio
+- [Servicii](servicii.html): Toate serviciile și prețurile detaliate
+- [Portofoliu](portofoliu.html): Proiecte realizate cu link-uri live
+- [Contact](contact.html): Modalități de contact
